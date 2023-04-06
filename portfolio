@@ -1,0 +1,38 @@
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>TaKi Portfolio</title>
+</head>
+<body>
+    <div class="hero">
+        <div class="container">
+            <nav>
+                <a href="#" class="logo">Portfo<span>Lio</span></a>
+                <div class="links">
+                    <a href="#" class="active">Home</a>
+                    <a href="#">About</a>
+                    <a href="#">Service</a>
+                    <a href="#">Contact</a>
+                </div>
+            </nav>
+            <div class="content">
+                <div class="div-text">
+                    <h4>Hello I'm</h4>
+                    <h1>TaKi FaLek</h1>
+                    <span>Front-End Developer</span>
+                    <div class="social-links">
+                        <a href="https://twitter.com/TakiFalek15" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                        <a href="https://www.instagram.com/taki.falek/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/sadrati.sofian/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="https://www.linkedin.com/in/taki-falek-4b1251255/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+                    </div>
+                    <a href="https://www.facebook.com/sadrati.sofian/" target=accesskey=""
+
+                  class="btn">Download CV</a>
+                </div>
+                <div class="div-img">
+                    <img src="./Image.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
